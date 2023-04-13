@@ -34,10 +34,8 @@
   
  This is project where group of people can create a room and then enjoy music(Here i have used Spotify api).This app uses react as a frontend funtionality and django for backend functionality....I have addded some screenshots .
   </br>
-  
-  ![Screenshot from 2023-04-14 01-49-14](https://user-images.githubusercontent.com/86311851/231878100-fea081bb-854a-454a-990b-e261c7aacf0d.png)
-  ![Screenshot from 2023-04-14 01-49-02](https://user-images.githubusercontent.com/86311851/231878306-30901d71-d99f-4730-b410-d562887f7932.png)
-
+ ![Screenshot from 2023-04-14 01-47-09](https://user-images.githubusercontent.com/86311851/231878843-3d752f04-e90f-4bd2-bd83-497e97931f46.png)
+ ![Screenshot from 2023-04-14 01-49-14](https://user-images.githubusercontent.com/86311851/231878100-fea081bb-854a-454a-990b-e261c7aacf0d.png)
 ![Screenshot from 2023-04-14 01-48-25](https://user-images.githubusercontent.com/86311851/231878398-b3a14078-576c-4265-83e2-2667f8413ef6.png)
 ![Screenshot from 2023-04-14 01-47-27](https://user-images.githubusercontent.com/86311851/231878452-a2569813-0179-40be-93e2-e875820c2092.png)
 ![Screenshot from 2023-04-14 01-47-09](vhttps://user-images.githubusercontent.com/86311851/231878540-fb266ebb-6e24-4d38-9569-21e7a95166d7.png)
