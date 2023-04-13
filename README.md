@@ -29,3 +29,10 @@
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaa192&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+  
+  
+ This is project where group of people can create a room and then enjoy music(Here i have used Spotify api).This app uses react as a frontend funtionality and django for backend functionality....I have addded some screenshots .
+  </br>
+  
+  ![Screenshot from 2023-04-14 01-49-14](https://user-images.githubusercontent.com/86311851/231878100-fea081bb-854a-454a-990b-e261c7aacf0d.png)
