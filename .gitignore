@@ -1,0 +1,12 @@
+/node_modules
+db.sqlite3
+/Funzi/__pycache__
+/api/__pycache__
+/frontend/__pycache__
+/spotify/__pycache__
+/spotify/migrations/__pycache__
+/frontend/webpack.config.js
+/frontend/package-lock.json
+/frontend/package.json
+/frontend/node_modules
+/frontend/babel.config.json
